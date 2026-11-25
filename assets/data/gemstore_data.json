@@ -75,7 +75,7 @@
       {
         "id": "p009",
         "name": "Designer Sunglasses",
-        "price": 55.00,
+        "price": 55.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_sunglasses.jpg",
@@ -87,7 +87,7 @@
       {
         "id": "p010",
         "name": "Classic Chain Handbag",
-        "price": 120.00,
+        "price": 120.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_handbag.jpg",
@@ -99,7 +99,7 @@
       {
         "id": "p011",
         "name": "Fashion Leather Bag",
-        "price": 75.00,
+        "price": 75.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_bag.jpg",
@@ -111,7 +111,7 @@
       {
         "id": "p013",
         "name": "Matte Lipstick Set",
-        "price": 25.00,
+        "price": 25.0,
         "currency": "USD",
         "category": "Beauty",
         "imageUrl": "photos/beauty_lipstick.jpg",
@@ -123,7 +123,7 @@
       {
         "id": "p014",
         "name": "Floral Glow Perfume",
-        "price": 85.00,
+        "price": 85.0,
         "currency": "USD",
         "category": "Beauty",
         "imageUrl": "photos/beauty_perfume.jpg",
@@ -135,7 +135,7 @@
       {
         "id": "p015",
         "name": "Satin Evening Blouse",
-        "price": 52.00,
+        "price": 52.0,
         "currency": "USD",
         "category": "Women",
         "imageUrl": "photos/09e90f5ea1ecc64acbaaa975deb94ffe18def16c.png",
@@ -147,7 +147,7 @@
       {
         "id": "p016",
         "name": "Minimalist Leather Watch",
-        "price": 58.00,
+        "price": 58.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_watch.jpg",
@@ -159,7 +159,7 @@
       {
         "id": "p017",
         "name": "Classic Leather Belt",
-        "price": 32.00,
+        "price": 32.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_belt.jpg",
@@ -171,7 +171,7 @@
       {
         "id": "p018",
         "name": "Hydrating Skin Care Kit",
-        "price": 42.00,
+        "price": 42.0,
         "currency": "USD",
         "category": "Beauty",
         "imageUrl": "photos/beauty_skincare.jpg",
@@ -202,7 +202,7 @@
       {
         "id": "p009",
         "name": "Designer Sunglasses",
-        "price": 55.00,
+        "price": 55.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_sunglasses.jpg",
@@ -214,7 +214,7 @@
       {
         "id": "p010",
         "name": "Classic Chain Handbag",
-        "price": 120.00,
+        "price": 120.0,
         "currency": "USD",
         "category": "Accessories",
         "imageUrl": "photos/accessory_handbag.jpg",
@@ -343,21 +343,24 @@
           "name": "Rise Crop Hoodie",
           "price": 43.0,
           "currency": "USD",
-          "imageUrl": "photos/f38890a225ddff0443fafd8c2e8b14967c27e285.png"
+          "imageUrl": "photos/f38890a225ddff0443fafd8c2e8b14967c27e285.png",
+          "description": "A cropped hoodie for a casual, sporty look. Pair it with high-waisted leggings, joggers or jeans."
         },
         {
           "id": "p007",
           "name": "Gym Crop Top",
           "price": 39.99,
           "currency": "USD",
-          "imageUrl": "photos/1ba718d3938b04da6be29a56e3d4b6108c22d1e6.png"
+          "imageUrl": "photos/1ba718d3938b04da6be29a56e3d4b6108c22d1e6.png",
+          "description": "A crop top for sporty outfits. Combine it with high-waisted leggings or shorts and add a hoodie for an extra layer."
         },
         {
           "id": "p008",
           "name": "Sport Sweatshirt",
           "price": 47.99,
           "currency": "USD",
-          "imageUrl": "photos/c83e7223d06d87d1604bef80ed425c7bbab5b054.png"
+          "imageUrl": "photos/c83e7223d06d87d1604bef80ed425c7bbab5b054.png",
+          "description": "A sport sweatshirt for relaxed everyday styling. Pair it with joggers, leggings or jeans for an easy casual outfit."
         }
       ],
       "actions": {

@@ -46,3 +46,9 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+.artifacts/
+
+# Local REST server state and generated outputs
+backend/.runtime/
+__pycache__/
+**/build/
