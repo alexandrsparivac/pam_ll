@@ -1,5 +1,5 @@
 name: pam_ll2_http
-description: "GemStore — local JSON catalog and on-device data."
+description: "GemStore — REST HTTP, JSON serialization and Clean Architecture."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -35,7 +35,6 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_bloc: ^8.1.3
   http: ^1.6.0
-  path_provider: ^2.1.6
 
 dev_dependencies:
   flutter_test:
@@ -59,7 +58,6 @@ flutter:
   assets:
     - photos/
     - assets/data/product_descriptions.json
-    - assets/data/gemstore_data.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

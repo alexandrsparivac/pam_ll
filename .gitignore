@@ -3,6 +3,7 @@
 *.log
 *.pyc
 *.swp
+*.zip
 .DS_Store
 .atom/
 .build/
@@ -46,7 +47,6 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
-.artifacts/
 
 # Local REST server state and generated outputs
 backend/.runtime/

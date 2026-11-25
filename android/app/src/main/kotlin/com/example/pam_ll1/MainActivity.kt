@@ -1,4 +1,4 @@
-package com.example.pam_ll2_json
+package com.example.pam_ll1
 
 import io.flutter.embedding.android.FlutterActivity
 

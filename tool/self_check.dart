@@ -125,7 +125,7 @@ Future<void> runSelfChecks() async {
   }
 
   final raw = jsonDecode(
-    await File('test/fixtures/api_catalog.json').readAsString(),
+    await File('assets/data/gemstore_data.json').readAsString(),
   ) as Map<String, dynamic>;
   final transport = ContractTransport(raw);
   final feedRaw = jsonDecode(jsonEncode(raw)) as Map<String, dynamic>;
